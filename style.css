@@ -1,0 +1,117 @@
+.one{
+    position: relative;
+    margin-left: 10px;
+    width: 19%;
+    height: 400px;
+}.hover{
+    position: absolute;
+    width: 100%;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.192);
+    top: 0%;
+    border-radius: 6px;
+    z-index: 1;
+}#label-one{
+    position: absolute;
+    z-index: 2;
+    top: 5%;
+    left: 10%;
+    color: white;
+    font-size: 12px;
+}#label-two{
+    position: absolute;
+    z-index: 2;
+    top: 10%;
+    left: 10%;
+    color: white;
+}#label-three{
+    position: absolute;
+    z-index: 2;
+    bottom: 10%;
+    left: 10%;
+    color: white;
+}
+
+
+.one:hover .hover{
+    display: none;
+}
+
+
+.post-thumb{
+    position: relative;
+}#label_real{
+    position: absolute;
+    z-index: 5;
+    top: 7%;
+    left: 15%;
+    background-color: rgba(255, 0, 0, 0.911);
+    height: 22px;
+    width: 60px;
+    border-radius: 4px;
+    text-align: center;
+    color: white;
+    font-size: 14px
+}#label_real-one{
+    position: absolute;
+    z-index: 5;
+    top: 7%;
+    left: 15%;
+    background-color: rgba(255, 251, 0, 0.911);
+    height: 22px;
+    width: 60px;
+    border-radius: 4px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 14px
+}
+
+
+.align-items-center{
+    position: relative;
+}
+.group-label{
+    height: 200px;
+    padding: 10px;
+}.bottom{
+    width: 100px;
+    height: 1px;
+    background-color: black;
+    margin-top: 80px;
+}
+.column-real-one{
+    margin-left: 15px;
+    width: 32%;
+    height: 10%;
+
+}.group{
+    position: relative;
+    padding: 10px;
+}.card-img{
+    width: 95%;
+    height: 250px;
+    border-radius: 6px;
+}.card-img:hover .hr{
+    display: none;
+}.hr{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.336);
+    top: 4%;
+    width: 90%;
+    height: 250px;
+    border-radius: 6px;
+}.card-img-zero{
+    width: 95%;
+    height: 520px;
+    border-radius: 6px;
+    background-color: red;
+}.card-img-zero:hover .hr-zero{
+    display: none;
+}.hr-zero{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.336);
+    top: 2%;
+    width: 90%;
+    height: 520px;
+    border-radius: 6px;
+}
