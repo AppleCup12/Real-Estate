@@ -1,0 +1,100 @@
+/* banner-padding */
+.banner-padding{
+    padding: 20px;
+}
+
+.card-chart{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    /* border: 1px solid rgba(0, 0, 0, 0.205); */
+    padding: 10px;
+    width: 400px;
+}#header-chart-all-about{
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+}.column{
+    margin-left: 15px;
+}
+
+.list-about-alr{
+    padding: 10px;
+    width: 50%;
+}.card-about-alr{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    border-radius: 6px;
+    padding: 5px;
+    font-size: 24px;
+}.green{
+    border: 1px solid rgba(15, 122, 1, 0.288);
+    background-color: rgba(1, 122, 7, 0.096);
+}.blue{
+    border: 1px solid rgba(1, 29, 122, 0.288);
+    background-color: rgba(1, 19, 122, 0.096);
+}.red{
+    border: 1px solid rgba(122, 39, 1, 0.288);
+    background-color: rgba(122, 1, 1, 0.096);
+}.group-text{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    font-size: 18px;
+    width: 90%;
+}
+
+.text-position{
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 5px;
+}
+.text-position-one{
+    position: absolute;
+    width: 50%;
+    top: 0%;
+    font-size: 24px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+
+.card-about-real{
+    position: relative;
+    width: 45%;
+    height: 50px;
+    border-radius: 6px;
+    padding: 5px;
+    padding-top: 15px;
+    font-size: 12px;
+}.real-red{
+    border: 1px solid rgba(255, 0, 0, 0.425);
+    background-color: rgba(255, 0, 0, 0.411);
+    color: white;
+    margin-left: 13px;
+    margin-top: 13px;
+}.real-bone{
+    border: 1px solid rgba(175, 221, 90, 0.568);
+    background-color: rgba(133, 151, 85, 0.158);
+    margin-left: 13px;
+    margin-top: 13px;
+}.real-green{
+    border: 1px solid rgba(90, 221, 166, 0.568);
+    background-color: rgba(85, 151, 96, 0.158);
+    margin-left: 13px;
+    margin-top: 13px;
+}.real-blue{
+    border: 1px solid rgba(92, 90, 221, 0.568);
+    background-color: rgba(85, 95, 151, 0.158);
+    margin-left: 13px;
+    margin-top: 13px;
+}.real-wite{
+    border: 1px solid rgba(90, 221, 215, 0.363);
+    background-color: rgba(85, 151, 145, 0.075);
+    margin-left: 13px;
+    margin-top: 13px;
+}

@@ -1,0 +1,84 @@
+
+.active{
+    background-color: rgba(190, 206, 206, 0.685);
+    color: rgb(0, 0, 0);
+}.nav-link:hover{
+    /* background-color: rgba(190, 206, 206, 0.685); */
+    color: rgb(0, 0, 0);
+}
+
+.sticky1{
+    position: fixed;
+    z-index: 3;
+    width: 100%;
+}.bac{
+    height: 56px;
+}
+/* home-banner */
+
+.container{
+    position: relative;
+}
+.home-banner1{
+    position: fixed;
+    width: 13%;
+    z-index: 0;
+    border-radius: 10px;
+    background-color: white;
+}.ms-3{
+    margin-left: 10px;
+}.bg-success{
+    position: absolute;
+    left: 70%;
+    bottom: -0%;
+    
+}.padding-list-nav{
+    padding: 15px;
+
+}.nav-bar-list{
+    position: relative;
+    /* transform: translate(8%, 10%); */
+    width: 210px;
+    background-color: rgba(196, 221, 233, 0.438);
+    border-radius: 10px;
+
+}.navbar-nav, a{
+    color: rgb(0, 0, 0);
+    text-align: start;
+}.navbar-nav, a:hover{
+    color: rgb(194, 191, 191);
+}.nav-user{
+    margin-left: 0%;
+}.nav-user:hover{
+    color: rgba(0, 0, 0, 0.705);
+}#span{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.575);
+}
+.active{
+    color: rgb(6, 62, 247);
+}
+
+
+.home-banner2{
+    /* position: absolute; */
+    width: 80%;
+    height: 100%;
+    left: 20%;
+    z-index: 0;
+    border-radius: 10px;
+    /* background-color: rgba(230, 240, 240, 0.568); */
+}
+
+/* chart */
+.chart-01{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    background-color: rgb(207, 207, 207);
+}
+
+.nav-item1:hover{
+    background-color: rgba(224, 232, 235, 0.199);
+    border-radius: 5px;
+}

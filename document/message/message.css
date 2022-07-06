@@ -1,0 +1,90 @@
+
+/* messae-padding */
+.messae-padding{
+    padding: 20px;
+}
+.card{
+    border: none;
+}
+.btn-light{
+    border: 1px solid rgba(41, 40, 40, 0.336);
+}
+.btn-group{
+    font-size: 12px;
+    height: 40px;
+}
+
+.group-about-ms{
+    margin-top: 5px;
+    padding: 10px;
+ }.column-chart, .column-about{
+    width: 410px;
+    /* background-color: red; */
+    margin-left: 20px;
+ }#backButton{
+    position: absolute;
+    left: 45%;
+    width: 100px;
+ }.group-header{
+    text-align: center;
+ }.card-about-ms{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    border: 1px solid rgba(0, 201, 17, 0.432);
+    border-radius: 6px;
+    background-color: rgba(0, 201, 17, 0.089);
+ }.text-ms{
+    font-size: 24px;
+    padding: 5px;
+    margin-left: 5px;
+ }.email{
+    border: 1px solid rgba(0, 104, 201, 0.432);
+    background-color: rgba(0, 144, 201, 0.089);
+ }.hidden{
+    position: absolute;
+    width: 90px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+    top: 92%;
+    left: 41%;
+ }.qty{
+    border: 1px solid rgba(87, 0, 201, 0.432);
+    background-color: rgba(60, 0, 201, 0.089);
+ }.heart{
+    border: 1px solid rgba(201, 0, 0, 0.432);
+    background-color: rgba(201, 0, 0, 0.089);
+ }
+
+ /* card-about-lit-real */
+.card-about-lit-real{
+    padding: 10px;
+    width: 100%;
+    height: 100px;
+    border: 1px solid rgba(150, 0, 170, 0.425);
+    background-color: aliceblue;
+    border-radius: 6px;
+ }#img{
+    width: 100%;
+    height: 80px;
+ }.group-img{
+    width: 200px;
+    height: 100%;
+ }.column-01{
+    margin-left: 15px;
+    /* background-color: rebeccapurple; */
+ }.column-02{
+    padding: 4px;
+    text-align: center;
+    width: 150px;
+ }.column-03{
+    text-align: start;
+    width: 170px;
+    padding: 10px;
+    border-right: 1px solid rgba(0, 0, 0, 0.164);
+ }.column-04{
+    text-align: start;
+    width: 200px;
+    padding: 10px;
+    
+ }
