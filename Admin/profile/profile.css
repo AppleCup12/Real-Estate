@@ -1,0 +1,118 @@
+.position-btn{
+    position: absolute;
+    right: 16%;
+    top: 10%;
+}
+    .home-banner{
+        position: relative;
+        /* float: left; */
+        z-index: 1;
+    }
+    .header{
+        position: absolute;
+        transform: translate(5%, 50%);
+        text-align: center;
+        /* width: 20%;
+        height: 18%; */
+    }
+    .profile{
+        position: absolute;
+        width: 100%;
+        height: 120%;
+        left: -50%;
+    }
+    .img{
+        position: inherit;
+    }
+    #img_bc{
+        position: absolute;
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw6gPdTJZBPtbYx3HAuVX5yVanr0fMp18qnw&usqp=CAU);
+        width: 100%;
+        height: 240%;
+        border-radius: 100%;
+        border: 50% solid rgb(90, 32, 32);
+        z-index: 1;
+    }
+    #output{
+        position: absolute;
+        width: 100%;
+        height: 240%;
+        border-radius: 100%;
+        border: 50% solid rgb(90, 32, 32);
+        z-index: 2;
+    }#file-img{
+        position: absolute;
+        z-index: 2;
+        width: 100%;
+        height: 60%;
+        transform: translate(1%, 320%);
+        background-color: #f6f5fcd8;
+        color: black;
+        border-radius: 10%, 100%;
+    }
+    #upload_img{
+        position: absolute;
+        transform: translate(30% , 960%);
+        z-index: 3;
+    }
+    #text{
+        position: absolute;
+        transform: translate(160%, 30%);
+    }
+    #img_user{
+        position: absolute;
+        /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw6gPdTJZBPtbYx3HAuVX5yVanr0fMp18qnw&usqp=CAU); */
+        width: 100%;
+        height: 240%;
+        border-radius: 100%;
+        border: 50% solid rgb(90, 32, 32);
+        z-index: 1;
+    }
+    .bac{
+        position: absolute;
+        width: 110%;
+        height: 265%;
+        left: 45%;
+        bottom: -152%;
+        border-radius: 100%;
+        border: 15px solid rgba(156, 155, 155, 0.164);
+        z-index: 1;
+    }
+
+
+    /* group */
+
+    .group{
+        position: relative;
+        margin-top: 40px;
+        width: 140%;
+        flex: left;
+        z-index: 2;
+        left: -30%;
+    }
+    .control{
+        height: 40%;
+        border: none;
+    }#th{
+        color: rgba(255, 245, 238, 0);
+    }
+
+    /* alert */
+    .header-group{
+        position: relative;
+    }
+    .alert{
+        position: absolute;
+        /* bottom: -20%; */
+        width: 40%;
+        left: 50%;
+        /* bottom: 20%; */
+        top: 5%;
+    }.alert-01{
+        position: absolute;
+        width: 120%;
+        top: 475%;
+        left: -10%;
+        text-align: start;
+        z-index: 3;
+    }

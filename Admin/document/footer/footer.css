@@ -1,0 +1,20 @@
+.card{
+    position: relative;
+    padding: 10px;
+}.column{
+    position: relative;
+    margin-left: 10px;
+    width: 48%;
+    text-align: center;
+    padding: 10px;
+}.column-one{
+    border-right: 1px solid rgba(25, 57, 77, 0.349);
+}
+
+.control{
+    height: 40px;
+    font-size: 12px;
+}.form-group-one{
+    align-items: center;
+    margin-left: 24%;
+}

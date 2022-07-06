@@ -1,0 +1,102 @@
+
+/* group-list-user */
+.group-list-user{
+    position: relative;
+}
+.text-user{
+    font-size: 12px;
+}
+.add-user{
+    position: absolute;
+    top: 5px;
+    right: 0%;
+}
+.icon{
+    font-size: 18px;
+}
+.btn-add{
+    margin-top: 12px;
+    height: 32px;
+    text-align: center;
+}
+#label-add{
+    margin-top: -15px;
+}
+
+/* table */
+.table-admin{
+    padding: 20px;
+    font-size: 12px;
+}
+#tr:hover{
+    background-color: rgba(223, 201, 219, 0.452);
+}
+td{
+    width: 200px;
+    height: 55px;
+}
+#th-number{
+    transform: translateY(10%);
+}
+#td-img{
+    width: 300px;
+}
+
+/* img-admin */
+.group-img-admin{
+    position: relative;
+}
+#img-admin{
+    /* position: absolute; */
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+}
+.group-admin{
+    text-align: start;
+    margin-left: -10px;
+}
+
+.check{
+    color: rgb(2, 182, 2);
+    font-size: 14px;
+}
+.admin-email{
+    color: black;
+}.admin-email:hover {
+    color: rgb(0, 0, 0);
+    font-size: 12.5px;
+    display: inline;
+}
+
+/* Password */
+
+.password-show{
+    display: none;
+}
+.password-none{
+    display: inline;
+}
+
+#password:hover .password-show{
+    display: inline;
+}
+#password:hover .password-none{
+    display: none;
+}
+
+/* ຈັດການ */
+.wrong{
+    color: red;
+}
+.btn-wrong{
+    border: none;
+}
+.shield , .eye , .person{
+    font-size: 16px;
+}.shield , .eye{
+    font-size: 16px;
+    color: rgba(50, 51, 50, 0.63);
+}.person{
+    color: rgb(226, 5, 5);
+}

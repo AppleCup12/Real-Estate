@@ -1,0 +1,48 @@
+
+.scroll{
+    /* background-color: black; */
+    overflow: scroll;
+    height: 400px;
+    padding: 10px;
+}
+.table{
+    font-size: 11px;
+    color: black;
+}#th{
+    width: 100px;
+}
+
+.control{
+    height: 30px;
+    font-size: 12px;
+}
+#input-update{
+    background-color: rgba(199, 211, 214, 0.281);
+    border-radius: 10px;
+}
+.control-edit{
+    border: 1px solid white;
+    color: white;
+    border-radius: 4px;
+    height: 30px;
+    font-size: 12px;
+    background-color: rgb(0, 195, 255);
+}
+.input-insert{
+    width: 185px;
+    border: 1px solid rgb(185, 221, 221);
+}
+.alert-danger{
+    width: 255px;
+}
+
+
+/* Delete */
+.delete_distric{
+    width: 30px;
+    text-align: center;
+    color: red;
+    background-color: #fff;
+    border: 1px solid rgba(248, 2, 2, 0.479);
+    border-radius: 5px;
+}

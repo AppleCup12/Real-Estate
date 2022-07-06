@@ -1,0 +1,61 @@
+
+/* home-banner */
+.home-banner-one{
+    position: relative;
+    width: 106%;
+    height: 100%;
+    left: -6%;
+    z-index: 1;
+    top: 60px;
+    border-radius: 8px;
+
+}
+
+/* container-one */
+
+.container-one{
+    margin: 20px;
+    height: 100%;
+}
+
+
+/* Col-md-12 */
+
+.btn-district{
+    margin-top: 2px;
+    width: 230px;
+    text-align: center;
+    border-radius: 2px;
+}
+.alert-distric{
+    margin-top: 2px;
+    width: 180px;
+    text-align: center;
+    border-radius: 2px;
+    /* display: none; */
+}
+.btn-format{
+    background-color: yellow;
+    border-radius: 2px;
+}
+
+
+/* alert-real_category */
+.alert-real_category{
+    width: 300px;
+    height: 40px;
+    left: 40%;
+    top: 59%;
+    font-size: 13px;
+}
+.rc{
+    margin-top: 5px;
+}
+.new_category{
+    position: absolute;
+    top: 21%;
+    right: 2.5%;
+}
+#colspan{
+    width: 400px;
+}

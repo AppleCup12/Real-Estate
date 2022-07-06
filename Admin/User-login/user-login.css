@@ -1,0 +1,59 @@
+/* confirm-real */
+
+.banner-about{
+    position: relative;
+    width: 106%;
+    height: 100%;
+    left: -6%;
+    top: 60px;
+    z-index: 1;
+    border-radius: 8px;
+}
+.card{
+    border: none;
+    padding: 10px;
+}
+.group-padding{
+    padding: 20px;
+}
+
+.hr{
+    width: 100%;
+    height: 1px;
+    background-color: black;
+}.profile-header{
+    width: 145px;
+    padding-left: 50px;
+    height: 30px;
+}.user_name-header{
+    width: 240px;
+}.curdate-header{
+    width: 155px;
+}
+
+.amount-header{
+    position: relative;
+    font-size: 14px;
+}.column{
+    margin-left: 20px;
+}.profile{
+    width: 100px;
+    height: 80px;
+}.user_name{
+    width: 250px;
+    padding: 10px;
+}.curdate{
+    width: 160px;
+}
+
+
+
+.search{
+    position: relative;
+    width: 360px;
+    padding-bottom: 10px;
+}.btn-search{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}

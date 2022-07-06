@@ -1,0 +1,26 @@
+.group_padding{
+    padding: 20px;
+}
+.group-nav{
+    background-color: rgba(224, 222, 222, 0.404);
+    border-radius: 3px;
+    /* height: 30px; */
+    /* color: black; */
+}
+#a1, #a2{
+    color: rgb(80, 78, 78);
+    margin-left: 8px;
+}#a3{
+    color: rgb(136, 135, 135);
+    font-size: 14px;
+}
+.group-card{
+    padding: 12px;
+}
+.control{
+    height: 35px;
+    
+}
+.select{
+    font-size: 12px;
+}

@@ -1,0 +1,42 @@
+/* confirm-real */
+
+.banner-about{
+    position: relative;
+    width: 106%;
+    height: 100%;
+    left: -6%;
+    top: 60px;
+    z-index: 1;
+    border-radius: 8px;
+}
+.card{
+    border: none;
+    padding: 10px;
+}
+.group-padding{
+    padding: 20px;
+}
+
+.group-comment{
+    position: relative;
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.185);
+    border-radius: 6px;
+ }.column-one{
+    width: 50px;
+    padding: 20px;
+    text-align: center;
+ }.column-text{
+    padding: 20px;
+    width: 80%;
+    border-right: 1px solid black;
+ }.column-user{
+    position: absolute;
+    width: 100px;
+    right: -2%;
+    top: 20%;
+ }.wiht{
+    height: 10px;
+    width: 100%;
+ }
+
