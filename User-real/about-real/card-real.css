@@ -1,0 +1,74 @@
+
+.card-libary{
+    position: relative;
+    width: 98%;
+    height: 100%;
+    border-radius: 6px;
+ }.card-libary:hover{
+    width: 98%;
+    height: 100%;
+    /* background-color: rgba(226, 240, 240, 0.479); */
+    box-shadow: 0 0 1.00rem rgba(132, 189, 189, 0.582);
+    color: black;
+ }.card{
+     border: none;
+ }
+
+.group-libary-img{
+    width: 280px;
+    height: 150px;
+ }#img-libary{
+     width: 260px;
+     height: 100%;
+     border-top-left-radius: 6px;
+     border-bottom-left-radius: 6px;
+ }.libary-about{
+     position: relative;
+     width: 100%;
+     height: 130px;
+     margin-top: 8px;
+     /* border-right: 2px solid rgba(199, 199, 204, 0.527); */
+ }.libary-about-01{
+    position: relative;
+    width: 250px;
+    height: 130px;
+    font-size: 12px;
+ }.alink{
+     color: rgb(45, 50, 51);
+ }
+
+.icon-libary{
+    position: absolute;
+    right: 0%;
+    width: 90px;
+    height: 100%;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border: 1px solid white;
+    background-color: rgba(231, 243, 247, 0.514);
+    font-size: 20px;
+}#ul{
+    margin-top: 10px;
+}
+
+.status-img{
+    /* position: absolute; */
+    /* left: 2%;
+    top: 2%; */
+    margin-left: -20px;
+    height: 35px;
+    width: 50px;
+    text-align: center;
+    border-radius: 6px;
+    z-index: 1;
+}.sell{
+    background-color: rgb(255, 0, 0);
+    color: white;
+}.Rent{
+    background-color: yellow;
+}.more-libary{
+    font-size: 22px;
+    margin-left: 300px;
+    align-items: center;
+    color: blue;
+}

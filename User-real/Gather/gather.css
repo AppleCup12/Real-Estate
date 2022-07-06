@@ -1,0 +1,45 @@
+
+.home-banner-save{
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+ }.header-about{
+     padding: 20px;
+     width: 100%;
+     height: 100px;
+     text-align: center;
+ }.gather-card{
+     padding: 20px;
+     border-radius: 6px;
+     background-color: rgba(226, 230, 231, 0.445);
+ }.img-th{
+     width: 200px;
+ }.column{
+     margin-left: 10px;
+     width: auto;
+ }.delete{
+     text-align: center;
+     background-color: red;
+     color: wheat;
+     margin-left: 10px;
+     margin-bottom: 10px;
+ }#b{
+     color: wheat;
+ }.colum-text{
+     width: 200px;
+     /* background-color: violet; */
+ }.column-text-02{
+     width: 350px;
+     /* background-color: turquoise; */
+ }.column-text002{
+     max-width: 300px;
+     font-size: 14px;
+ }.column-text-03{
+     width: 200px;
+     /* background-color: yellow; */
+ }.hove-link:hover{
+    box-shadow: 1px 5px 40px 5px rgba(156, 210, 231, 0.726);
+
+ }.hover-danger:hover{
+    box-shadow: 1px 5px 40px 5px rgba(211, 72, 95, 0.815);
+ }
